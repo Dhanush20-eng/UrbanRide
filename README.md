@@ -1,2 +1,2 @@
 # UrbanRide
-A software for traval in city
+A software for travaling in city
